@@ -4,5 +4,4 @@
 
 * Strogonoff de frango:chicken:
 * Pavê:cake:
-* Bolo de cenoura
-
+* bolo de cenoura
